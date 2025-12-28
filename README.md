@@ -15,4 +15,7 @@ A comprehensive cybersecurity dashboard with AI-powered threat detection.
 2. Install the dependencies:
 
 ```bash
+
 pip install -r requirements.txt
+
+python -m streamlit run app/main.py
